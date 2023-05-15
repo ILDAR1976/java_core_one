@@ -1,0 +1,305 @@
+a# -> #a
+b# -> #b
+A# -> #A
+B# -> #B
+#a -> #q
+#b -> #p
+#A -> #Q
+#B -> #P
+
+qa -> qq
+qA -> qQ
+qb -> qp
+qB -> qP
+pa -> pq
+pA -> pQ
+pb -> pp
+pB -> pP
+QA -> QQ
+Qa -> Qq
+QB -> QP
+Qb -> Qp
+PA -> PQ
+Pa -> Pq
+PB -> PP
+Pb -> Pp
+
+q+ -> +q
+p+ -> +p
+Q+ -> +Q
+P+ -> +P
++q -> +a
++p -> +b
++Q -> +A
++P -> +B
+
+aq -> aa
+aQ -> aA
+ap -> ab
+aP -> aB
+bp -> bb
+bP -> bB
+bq -> ba
+bQ -> bA
+AQ -> AA
+Aq -> Aa
+Ap -> Ab
+AP -> AB
+BP -> BB
+Bp -> Bb
+Bq -> Ba
+BQ -> BA
+
+#+ ->. $
+
+0Q -> q0
+0q -> q0
+0P -> p0
+0p -> p0
+0 -> +
+# -> #0
+
+a7 -> 7a
+b7 -> 7b
+A7 -> 7A
+B7 -> 7B
+7a -> 7s
+7b -> 7r
+7A -> 7S
+7B -> 7R
+
+sa -> ss
+sA -> sS
+sb -> sr
+sB -> sR
+ra -> rs
+rA -> rS
+rb -> rr
+rB -> rR
+SA -> SS
+Sa -> Ss
+SB -> SR
+Sb -> Sr
+RA -> RS
+Ra -> Rs
+RB -> RR
+Rb -> Rr
+
+s8 -> 8s
+r8 -> 8r
+S8 -> 8S
+R8 -> 8R
+8s -> 8a
+8r -> 8b
+8S -> 8A
+8R -> 8B
+
+as -> aa
+aS -> aA
+ar -> ab
+aR -> aB
+br -> bb
+bR -> bB
+bs -> ba
+bS -> bA
+AS -> AA
+As -> Aa
+Ar -> Ab
+AR -> AB
+BR -> BB
+Br -> Bb
+Bs -> Ba
+BS -> BA
+
+78 -> #
+
+SSS -> s
+RRR -> r
+7 -> 78 
+
+a5 -> 5a
+b5 -> 5b
+A5 -> 5A
+B5 -> 5B
+5a -> 5v
+5b -> 5u
+5A -> 5V
+5B -> 5U
+
+va -> vv
+vA -> vV
+vb -> vu
+vB -> vU
+ua -> uv
+uA -> uV
+ub -> uu
+uB -> uU
+VA -> VV
+Va -> Vv
+VB -> VU
+Vb -> Vu
+UA -> UV
+Ua -> Uv
+UB -> UU
+Ub -> Uu
+
+v6 -> 6v
+u6 -> 6u
+V6 -> 6V
+U6 -> 6U
+6v -> 6a
+6u -> 6b
+6V -> 6A
+6U -> 6B
+
+av -> aa
+aV -> aA
+au -> ab
+aU -> aB
+bu -> bb
+bU -> bB
+bv -> ba
+bV -> bA
+AV -> AA
+Av -> Aa
+Au -> Ab
+AU -> AB
+BU -> BB
+Bu -> Bb
+Bv -> Ba
+BV -> BA
+
+56 -> 7 
+
+
+vV -> Vv
+uV -> Vu
+vU -> Uv
+uU -> Uu
+5 -> 56
+
+a3 -> 3a
+b3 -> 3b
+A3 -> 3A
+B3 -> 3B
+3a -> 3x
+3b -> 3w
+3A -> 3X
+3B -> 3W
+
+xa -> xx
+xA -> xX
+xb -> xw
+xB -> xW
+wa -> wx
+wA -> wX
+wb -> ww
+wB -> wW
+XA -> XX
+Xa -> Xx
+XB -> XW
+Xb -> Xw
+WA -> WX
+Wa -> Wx
+WB -> WW
+Wb -> Ww
+
+x4 -> 4x
+w4 -> 4w
+X4 -> 4X
+W4 -> 4W
+
+4x -> 4a
+4w -> 4b
+4X -> 4A
+4W -> 4B
+
+ax -> aa
+aX -> aA
+aw -> ab
+aW -> aB
+bw -> bb
+bW -> bB
+bx -> ba
+bX -> bA
+AX -> AA
+Ax -> Aa
+Aw -> Ab
+AW -> AB
+BW -> BB
+Bw -> Bb
+Bx -> Ba
+BX -> BA
+
+34 -> 5 
+
+xx -> x
+ww -> x
+3 -> 34
+
+
+a1 -> 1a
+b1 -> 1b
+A1 -> 1A
+B1 -> 1B
+1a -> 1z
+1b -> 1y
+1A -> 1Z
+1B -> 1Y
+
+za -> zz
+zA -> zZ
+zb -> zy
+zB -> zY
+ya -> yz
+yA -> yZ
+yb -> yy
+yB -> yY
+ZA -> ZZ
+Za -> Zz
+ZB -> ZY
+Zb -> Zy
+YA -> YZ
+Ya -> Yz
+YB -> YY
+Yb -> Yy
+
+z2 -> 2z
+y2 -> 2y
+Z2 -> 2Z
+Y2 -> 2Y
+
+2z -> 2a
+2y -> 2b
+2Z -> 2A
+2Y -> 2B
+az -> aa
+aZ -> aA
+ay -> ab
+aY -> aB
+by -> bb
+bY -> bB
+bz -> ba
+bZ -> bA
+AZ -> AA
+Az -> Aa
+Ay -> Ab
+AY -> AB
+BY -> BB
+By -> Bb
+Bz -> Ba
+BZ -> BA
+
+12 -> 3 
+
+Zz -> zZ
+Zy -> yZ
+Yz -> zY
+Yy -> yY
+
+1 -> 12
+
+9a -> aA9
+9b -> bB9
+9 -> 1
+$ -> 9
